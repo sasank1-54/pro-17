@@ -1,0 +1,9 @@
+Parent{
+
+    border-style: solid;
+    border-color: blueviolet;
+    color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    }
